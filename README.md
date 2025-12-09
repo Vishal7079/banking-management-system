@@ -1,10 +1,12 @@
+# Banking Management System (C++)
 
-## Concepts Used
-- Classes and Objects  
-- Encapsulation  
-- Functions  
-- Conditional statements  
-- Data members & member functions  
+A simple console-based banking management system built using Object Oriented Programming (OOP) concepts in C++.
 
-## Output (Sample)
-Simple menu-driven interface to manage a bank account.
+## Features
+✔ Create Account  
+✔ Deposit Money  
+✔ Withdraw Money  
+✔ Display Account Details  
+✔ Error Handling for invalid inputs  
+
+## How to Run
